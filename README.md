@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+FRONTEND_TEAM_2 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Problem Statement: Create a Basic Template for Portfolio Website using React framework along with three.js library. Website should have unique way of displaying one’s portfolio along with having professional guidelines. It shouldn’t be having too much content, but still message should be clear. Themes should be added as well. 
 
-## Available Scripts
+How the project works: 
 
-In the project directory, you can run:
+The website is developed using React Framework. One can access its main file through React Folder following àsrc àindex.js, this will further lead to display of the main website. 
 
-### `yarn start`
+The website consists of the following pages: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Home: It gives description of the person with his/her image. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+It also consists of a top-bar which has the website name and toggle bar to navigate through the website.  
 
-### `yarn test`
+Portfolio: This section displays the work examples of the person. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Skills: It showcases the various technical skills in a span model bar. 
 
-### `yarn build`
+Testimonials: This section shows the verdict/review of other ‘xyz’ professional to the person owning the portfolio, this section has a hovering animation on each review. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contacts: the section gives message box to write any queries with a send button and socials account display in the form of icons. 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run this website, we recommend to use the software terminal of VS code or a windows command prompt in the project folder of portfolio like to start the website by typing the command ‘npm start’. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The website will open in your default browser. 
 
-### `yarn eject`
+Team Members and Information: 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Tripti Nayak 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+GitHub: https://github.com/trip19   
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+LinkedIn: https://www.linkedin.com/in/tripti-nayak-b77961213/ 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Samuel Robert 
 
-## Learn More
+GitHub: https://github.com/samuelrobert258 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+LinkedIn: https://www.linkedin.com/in/samuel-robert-b4085b20a/ 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Shaun Figueiro 
 
-### Code Splitting
+GitHub: https://github.com/shaunn17  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+LinkedIn: http://linkedin.com/in/shaun-figueiro-9311921b8 
 
-### Analyzing the Bundle Size
+Sheneal Butello 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Github: https://github.com/Sheneal251 
 
-### Making a Progressive Web App
+LinkedIn: https://www.linkedin.com/in/sheneal-butello-5449681a6/ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ 
 
-### Advanced Configuration
+ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ 
 
-### Deployment
+ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
